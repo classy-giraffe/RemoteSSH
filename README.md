@@ -25,7 +25,7 @@ A little python script which lets you ssh into your device without configuring p
 * Start the bot on Telegram.
 * Run the script: `python3 ssh_ngrok.py`.
 * A tcp://foo.bar:12345 should pop up.
-* Now you can ssh to your device: `your_user@foo.bar -p 12345`
+* Now you can ssh to your device: `ssh user@foo.bar -p 12345`.
 
 ## Author
 
@@ -38,4 +38,4 @@ A little python script which lets you ssh into your device without configuring p
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE file for details
