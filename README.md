@@ -16,7 +16,7 @@ A little python script which lets you ssh into your device without configuring p
 ### Instruction
 
 * On Telegram create a new bot by using @BotFather and get the Token.
-* Browse on https://api.telegram.org/bot<YourBOTToken>/getUpdates and get the chatid variable.
+* Browse on https://api.telegram.org/botYourBOTToken/getUpdates and get the chatid variable.
 * Follow the instruction on https://ngrok.com/download (the script assumes that `ngrok` is available in $PATH on Linux)
 * Clone the repository: `git clone https://github.com/XxXTommyXxX/RemoteSSH`.
 * CD into it: `cd XxXTommyXxX/RemoteSSH`.
