@@ -21,16 +21,3 @@ A little python script which lets you ssh into your device without configuring p
 * Run the script: `python3 ssh_ngrok.py`.
 * A tcp://foo.bar:12345 should pop up.
 * Now you can ssh to your device: `ssh user@foo.bar -p 12345`.
-
-## Author
-
-[@xo.chiti](https://www.instagram.com/xo.chiti/)
-
-## Version History
-
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [MIT] License - see the LICENSE file for details
