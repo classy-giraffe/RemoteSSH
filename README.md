@@ -7,6 +7,7 @@ A little python script which lets you ssh into your device without configuring p
 
 * `telegram` Python library.
 * `psutil` Python library.
+* `ngrok` account.
 
 ### Instruction
 
