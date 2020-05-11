@@ -1,9 +1,4 @@
-# Project Title
-
-RemoteSSH
-
-## Description
-
+# Remote SSH (with no port fordwarding)
 A little python script which lets you ssh into your device without configuring port forwarding.
 
 ## Getting Started
